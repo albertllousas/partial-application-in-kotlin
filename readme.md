@@ -187,8 +187,8 @@ val result: Maybe<Int> = fn ap one ap two
 Partial application is a powerful tool and can be applied in kotlin, but does it worth it?
 
 Well, I guess that in functional-first languages like haskell, clojure, F# or scala it is something more natural, a normal
-way to code because the languages themselves push you to do use it. 
+way to code because the languages themselves push you to use it. 
 
-In Kotlin this is a bit forced, you have to create your own functions or use fn libraries to achieve it and even with them 
+In Kotlin this is a bit forced, you have to create your own functions or use fn libraries to achieve it, and even with them 
 it is still a bit complex and weird.
 
